@@ -1,4 +1,4 @@
-# PF-Lab03
+# PF-Lab02&03
 
 Name: Muhammad Mustafa <br>
 Roll No: 26P-3031 <br>
